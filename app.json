@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "FamSpace",
+    "slug": "famspace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./icon.png",
+    "android": {
+      "package": "com.famspace.familyapp",
+      "versionCode": 1
+    }
+  }
+}
